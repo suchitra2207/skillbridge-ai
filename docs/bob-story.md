@@ -318,14 +318,42 @@ Opportunity types: 13 full-time, 7 internship
 - ✅ Opportunity card navigation to detail page works
 - ✅ Dashboard "Discover Opportunities" card navigates to /opportunities
 
-## Day 5 — Opportunity Detail + Gap Analysis (10 November 2026)
-*(To be completed)*
+## Day 5 — Opportunity Detail and Gap Analysis (10 November 2026)
+
+The project progressed towards connecting opportunity matching with skill-gap identification.
+
+The implementation includes:
+- Opportunity detail views with required and preferred skill breakdowns.
+- Skill-gap analysis services and API routes.
+- Skill recommendation logic.
+- A dedicated skill-gap interface component.
 
 ## Day 6 — Learning Roadmap (11 November 2026)
-*(To be completed)*
 
-## Day 7 — Dashboard + Polish (12 November 2026)
-*(To be completed)*
+The application includes a dedicated roadmap page and supporting skill recommendation architecture.
 
-## Day 8 — Hardening + Submission (13–14 November 2026)
-*(To be completed)*
+The roadmap experience is intended to help candidates identify skills to develop and organise their next learning steps.
+
+## Day 7 — Dashboard and Application Refinement (12 November 2026)
+
+The dashboard brings together the candidate profile and opportunity discovery experience.
+
+Development focused on integrating the frontend pages, improving navigation, and refining the overall application experience.
+
+## Day 8 — Hardening and Submission (12–14 November 2026)
+
+The submission preparation phase includes:
+- Source-code version control using Git.
+- Public GitHub repository publication.
+- Preparation of the problem statement and detailed solution document.
+- Presentation deck preparation.
+- Product demonstration video recording.
+- Review of project documentation and IBM Bob development evidence.
+
+**GitHub Repository:** https://github.com/suchitra2207/skillbridge-ai
+
+**Project:** SkillBridge AI  
+**Team:** SkillNova  
+**Presenter:** Suchitra Satapathy
+
+*Note: Final feature verification and testing should be completed before submission. Only verified functionality should be described as complete.*
